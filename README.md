@@ -1,5 +1,5 @@
 <img width=100% src="Endless Dream Shot.gif"> </img>
-# ***Hey ya!*** How are you doing lately? Its <span style="color:brown;">  *Onur Akın*</span>.
+# $${\color{white}\textit{Hey \space ya!} \space How \space are \space you \space doing \space lately? \space Its \space \textit{\color{orange}Onur \space Akın}}$$ 
 
 Currently, I have been doing bunch of stuff. Trying to learn new things, trying to catch up with uni and ofcourse trying not to loose my mind while trying to figure out what am I gonna do with my life after university and some existential thoughts and pains...
 
@@ -8,10 +8,10 @@ Just joking and fooling around though 😅😅 I hope you all doing well and not
 My main interests in programing write now;
 
 <br><br>
-| <span style="color:blue; background color:red;">  ***Programming Languages* that I tried before**</span>  |  <span style="color:blue; background color:red;">  **My Personal Perception of *My Level***</span> |  <span style="color:blue; background color:red;">  ***How Much I Liked The Language***</span>  |
+| $${\color{lightblue}\space Programming \space Languages \space that \space I \space tried \space before \space}$$  |  $${\color{lightblue}\space My \space Personal \space Perception \space of \space My \space Level \space}$$ |  $${\color{lightblue}\space How \space Much \space I \space Liked \space The \space Language \space}$$  |
 |-|-|-|
-|  Python  |⭐⭐⭐  |<img src="Kuriboh.png" alt="drawing" width="64"/><img src="Kuriboh.png" alt="drawing" width="64"/><img src="Kuriboh.png" alt="drawing" width="64"/><img src="Kuriboh.png" alt="drawing" width="64"/><img src="Kuriboh.png" alt="drawing" width="64"/>|
-|  HTML (with CSS)  |⭐⭐⭐⭐  |<img src="Kuriboh.png" alt="drawing" width="64"/><img src="Kuriboh.png" alt="drawing" width="64"/><img src="Kuriboh.png" alt="drawing" width="64"/><img src="Kuriboh.png" alt="drawing" width="64"/>|
+|  Python  | ⭐ ⭐ ⭐  |<img src="Kuriboh.png" alt="drawing" width="48"/><img src="Kuriboh.png" alt="drawing" width="48"/><img src="Kuriboh.png" alt="drawing" width="48"/><img src="Kuriboh.png" alt="drawing" width="48"/><img src="Kuriboh.png" alt="drawing" width="48"/>|
+|  HTML (with CSS)  |  ⭐ ⭐ ⭐ ⭐  |<img src="Kuriboh.png" alt="drawing" width="48"/><img src="Kuriboh.png" alt="drawing" width="48"/><img src="Kuriboh.png" alt="drawing" width="48"/><img src="Kuriboh.png" alt="drawing" width="48"/>|
 <hr>
 <br><br>
 
@@ -27,26 +27,10 @@ In future I would like to learn Javascript, Pyscript and might be C++ (still not
 And we are ending with a popular quote from Atatürk;
 <br><br>
     
->"Umutsuz durumlar yoktur, umutsuz insanlar vardır. Ben hiçbir zaman umudumu yitirmedim."
+>Umutsuz durumlar yoktur, umutsuz insanlar vardır. Ben hiçbir zaman umudumu yitirmedim. 
 
-
-~ Gazi Mustafa Kemal Atatürk
+***Gazi Mustafa Kemal Atatürk***
 
 ### ***'Till next time we meet again... Gotcha!***
 
 <img width=100% src="gotcha.gif"> </img>
-
-<!--
-**onurakinakbal/onurakinakbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
