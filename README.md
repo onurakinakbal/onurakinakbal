@@ -23,14 +23,13 @@ In future I would like to learn Javascript, Pyscript and might be C++ (still not
 - [Unturned (Game)](https://steamcommunity.com/id/onurakinakbal/stats/304930) 
 - Books, movies etc. etc. usual stuff
 <br><br>
+<br><br>
 And we are ending with a popular quote from Atatürk;
-<span style="color:#DD966C; font-family: verdana;
-  font-size: 200%;">
+<br><br>
+    
+        ``"Umutsuz durumlar yoktur, umutsuz insanlar vardır. Ben hiçbir zaman umudumu yitirmedim."``
 
-    "Umutsuz durumlar yoktur, umutsuz insanlar vardır. Ben hiçbir zaman umudumu yitirmedim." 
-
-    ~ Gazi Mustafa Kemal Atatürk
-</span>
+    ``~ Gazi Mustafa Kemal Atatürk``
 
 ### ***'Till next time we meet again... Gotcha!***
 
