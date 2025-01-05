@@ -1,5 +1,5 @@
 <img width=100% src="Endless Dream Shot.gif"> </img>
-# $${\color{white}\textit{Hey \space ya!} \space How \space are \space you \space doing \space lately? \space Its \space \textit{\color{orange}Onur \space Akın}}$$ 
+# ***Hey ya!*** How are you doing lately? Its <span style="color:#DD966C;">  *Onur Akın*</span>.
 
 Currently, I have been doing bunch of stuff. Trying to learn new things, trying to catch up with uni and ofcourse trying not to loose my mind while trying to figure out what am I gonna do with my life after university and some existential thoughts and pains...
 
