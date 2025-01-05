@@ -10,7 +10,7 @@ My main interests in programing write now;
 <br><br>
 | <span style="color:azure; background color:#FF4040;">  ***Programming Languages* that I tried before**</span>  |  <span style="color:azure; background color:#FF4040;">  **My Personal Perception of *My Level***</span> |  <span style="color:azure; background color:#FF4040;">  ***How Much I Liked The Language***</span>  |
 |-|-|-|
-|  Python  |⭐⭐⭐  |<a href="https://emoji.gg/emoji/5778-kuriboh"><img src="https://cdn3.emoji.gg/emojis/5778-kuriboh.png" width="64px" height="64px" alt="Kuriboh"></a><a href="https://emoji.gg/emoji/5778-kuriboh"><img src="https://cdn3.emoji.gg/emojis/5778-kuriboh.png" width="64px" height="64px" alt="Kuriboh"></a><a href="https://emoji.gg/emoji/5778-kuriboh"><img src="https://cdn3.emoji.gg/emojis/5778-kuriboh.png" width="64px" height="64px" alt="Kuriboh"></a><a href="https://emoji.gg/emoji/5778-kuriboh"><img src="https://cdn3.emoji.gg/emojis/5778-kuriboh.png" width="64px" height="64px" alt="Kuriboh"></a><a href="https://emoji.gg/emoji/5778-kuriboh"><img src="https://cdn3.emoji.gg/emojis/5778-kuriboh.png" width="64px" height="64px" alt="Kuriboh"></a>|
+|  Python  |⭐⭐⭐  |<img src="Kuriboh.png" alt="drawing" width="64"/><img src="Kuriboh.png" alt="drawing" width="64"/><img src="Kuriboh.png" alt="drawing" width="64"/><img src="Kuriboh.png" alt="drawing" width="64"/><img src="Kuriboh.png" alt="drawing" width="64"/>|
 |  HTML (with CSS)  |⭐⭐⭐⭐  |<img src="Kuriboh.png" alt="drawing" width="64"/><img src="Kuriboh.png" alt="drawing" width="64"/><img src="Kuriboh.png" alt="drawing" width="64"/><img src="Kuriboh.png" alt="drawing" width="64"/>|
 <hr>
 <br><br>
