@@ -34,7 +34,7 @@ In future I would like to learn Javascript, Pyscript and might be C++ (still not
 
 ### ***'Till next time we meet again... Gotcha!***
 
-<img width=100% src="Gotcha.gif"> </img>
+<img width=100% src="gotcha.gif"> </img>
 
 <!--
 **onurakinakbal/onurakinakbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
