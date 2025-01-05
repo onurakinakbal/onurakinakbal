@@ -1,5 +1,5 @@
 <img width=100% src="Endless Dream Shot.gif"> </img>
-# ***Hey ya!*** How are you doing lately? Its <span style="color:#DD966C;">  *Onur Akın*</span>.
+# ***Hey ya!*** How are you doing lately? Its <span style="color:brown;">  *Onur Akın*</span>.
 
 Currently, I have been doing bunch of stuff. Trying to learn new things, trying to catch up with uni and ofcourse trying not to loose my mind while trying to figure out what am I gonna do with my life after university and some existential thoughts and pains...
 
@@ -8,7 +8,7 @@ Just joking and fooling around though 😅😅 I hope you all doing well and not
 My main interests in programing write now;
 
 <br><br>
-| <span style="color:azure; background color:#FF4040;">  ***Programming Languages* that I tried before**</span>  |  <span style="color:azure; background color:#FF4040;">  **My Personal Perception of *My Level***</span> |  <span style="color:azure; background color:#FF4040;">  ***How Much I Liked The Language***</span>  |
+| <span style="color:blue; background color:red;">  ***Programming Languages* that I tried before**</span>  |  <span style="color:blue; background color:red;">  **My Personal Perception of *My Level***</span> |  <span style="color:blue; background color:red;">  ***How Much I Liked The Language***</span>  |
 |-|-|-|
 |  Python  |⭐⭐⭐  |<img src="Kuriboh.png" alt="drawing" width="64"/><img src="Kuriboh.png" alt="drawing" width="64"/><img src="Kuriboh.png" alt="drawing" width="64"/><img src="Kuriboh.png" alt="drawing" width="64"/><img src="Kuriboh.png" alt="drawing" width="64"/>|
 |  HTML (with CSS)  |⭐⭐⭐⭐  |<img src="Kuriboh.png" alt="drawing" width="64"/><img src="Kuriboh.png" alt="drawing" width="64"/><img src="Kuriboh.png" alt="drawing" width="64"/><img src="Kuriboh.png" alt="drawing" width="64"/>|
@@ -27,9 +27,10 @@ In future I would like to learn Javascript, Pyscript and might be C++ (still not
 And we are ending with a popular quote from Atatürk;
 <br><br>
     
-        ``"Umutsuz durumlar yoktur, umutsuz insanlar vardır. Ben hiçbir zaman umudumu yitirmedim."``
+>"Umutsuz durumlar yoktur, umutsuz insanlar vardır. Ben hiçbir zaman umudumu yitirmedim."
 
-    ``~ Gazi Mustafa Kemal Atatürk``
+
+~ Gazi Mustafa Kemal Atatürk
 
 ### ***'Till next time we meet again... Gotcha!***
 
